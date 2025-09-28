@@ -1,5 +1,7 @@
 # MVP-machine-Learning
-Projeto de Machine Learning cursdo de pós graduação da PUC Rio
+Projeto de Machine Learning cursdo de pós graduação da PUC Rio 
+
+Disponível : https://colab.research.google.com/drive/19WVboUc6cnLl2nDuQB9v3NhQluN3g31h#scrollTo=NbwQ8NBDOW1O
 
 1. Introdução
 O spam em mensagens de texto (SMS) é um problema recorrente que afeta usuários e organizações, causando desde inconvenientes até riscos financeiros e de segurança. A identificação automática dessas mensagens é fundamental para evitar fraudes, golpes e sobrecarga de sistemas de comunicação.
