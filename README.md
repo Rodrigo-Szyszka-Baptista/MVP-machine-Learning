@@ -93,7 +93,9 @@ Linear SVM	0.986	0.972	0.919	0.945	0.992
 Random Forest	0.971	1.000	0.785	0.880	0.989
 Naive Bayes	0.969	1.000	0.768	0.867	0.989
 Regressão Logística	0.963	1.000	0.723	0.839	0.990
-					
+
+<img width="334" height="566" alt="image" src="https://github.com/user-attachments/assets/39e4d000-ccbe-4fe5-8d15-8c50408fe5a6" />
+
 O modelo Linear SVM apresentou o melhor equilíbrio entre precisão e recall, além do maior F1 e AUC.
 
 6. Modelo Final
